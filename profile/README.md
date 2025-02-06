@@ -8,6 +8,6 @@ De Kiesraad adviseert de regering en het parlement over verkiezingen en het kies
 
 In het verkiezingsproces wordt digitalisering ingezet als hulpmiddel. De Kiesraad is verantwoordelijk voor de ontwikkeling en het beheer van de ondersteunende software die gebruikt wordt bij de kandidaatstelling en de vaststelling van de uitslagen van verkiezingen.
 
-Als informatie- en expertisecentrum over verkiezingen beheert de Kiesraad een verkiezingsdatabank die de uitslagen van meer dan 700 verkiezingen omvat, teruggaand tot 1848. De Kiesraad is benaderbaar voor iedereen die uitleg wil over het verkiezingsproces.
+Als informatie- en expertisecentrum over verkiezingen beheert de Kiesraad een [verkiezingsdatabank](https://www.verkiezingsuitslagen.nl/) die de uitslagen van meer dan 700 verkiezingen omvat, teruggaand tot 1848. De Kiesraad is benaderbaar voor iedereen die uitleg wil over het verkiezingsproces.
 
 Meer informatie over de verkiezingen en de Kiesraad is te vinden op [www.kiesraad.nl](https://www.kiesraad.nl/)
